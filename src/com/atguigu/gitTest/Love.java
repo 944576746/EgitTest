@@ -2,6 +2,6 @@ package com.atguigu.gitTest;
 
 public class Love {
  public static void main(){
-	 System.out.println("µÚÒ»´ÎÌá½»---ÕÅÈı");
+	 System.out.println("ç¬¬ä¸€æ¬¡æäº¤--- å¼ ä¸‰");
  }
 }
